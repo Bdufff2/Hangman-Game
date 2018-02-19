@@ -40,3 +40,6 @@ const hangmanGame = {
   },
 
 };
+
+// Call initialize game functions
+// Setup onkey events
