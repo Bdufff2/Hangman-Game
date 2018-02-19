@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"></script>
+  <title>Hangman</title>
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="wrapper-header">
+      <h1>Hangman Game</h1>
+      <h3>a guessing game</h3>
+    </div>
+
+    <div class="wrapper-game">
+      <!-- Displays the number of wins -->
+      <section>
+        <h2 class="section-title">Wins:</h2>
+        <h3 id="wins"></h3>
+      </section>
+      <!-- Displays the current word -->
+      <section>
+        <h2 class="section-title">Current Word:</h2>
+        <h3 id="current-word"></h3>
+      </section>
+      <!-- Displays the number of guesses remaining until the game ends -->
+      <section>
+        <h2 class="section-title">Remaining Guesses:</h2>
+        <h3 id="guesses-remaing"></h3>
+      </section>
+      <!-- Displays the letters that the user has guessed so far -->
+      <section>
+        <h2 class="section-title">Letters Guessed:</h2>
+        <h3 id="letters-guessed"></h3>
+      </section>
+    </div>
+
+  </div>
+
+  <!-- Link to local JavaScript file -->
+  <script type="text/javascript" src="assets/javascript/game.js"></script>
+</body>
+
+</html>
