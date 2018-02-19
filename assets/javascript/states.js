@@ -1,152 +1,152 @@
 const statesArray = {
-    Alabama: {
+    'Alabama': {
       capital: "Montgomery"
     },
-    Alaska: {
+    'Alaska': {
       capital: "Juneau"
     },
-    Arizona: {
+    'Arizona': {
       capital: "Phoenix"
     },
-    Arkansas: {
+    'Arkansas': {
       capital: "Little Rock"
     },
-    California: {
+    'California': {
       capital: "Sacramento"
     },
-    Colorado: {
+    'Colorado': {
       capital: "Denver"
     },
-    Connecticut: {
+    'Connecticut': {
       capital: "Hartford"
     },
-    Delaware: {
+    'Delaware': {
       capital: "Dover"
     },
-    Florida: {
+    'Florida': {
       capital: "Tallahassee"
     },
-    Georgia: {
+    'Georgia': {
       capital: "Atlanta"
     },
-    Hawaii: {
+    'Hawaii': {
       capital: "Honolulu"
     },
-    Idaho: {
+    'Idaho': {
       capital: "Boise"
     },
-    Illinois: {
+    'Illinois': {
       capital: "Springfield"
     },
-    Indiana: {
+    'Indiana': {
       capital: "Indianapolis"
     },
-    Iowa: {
+    'Iowa': {
       capital: "Des Moines"
     },
-    Kansas: {
+    'Kansas': {
       capital: "Topeka"
     },
-    Kentucky: {
+    'Kentucky': {
       capital: "Frankfort"
     },
-    Louisiana: {
+    'Louisiana': {
       capital: "Baton Rouge"
     },
-    Maine: {
+    'Maine': {
       capital: "Augusta"
     },
-    Maryland: {
+    'Maryland': {
       capital: "Annapolis"
     },
-    Massachusetts: {
+    'Massachusetts': {
       capital: "Boston"
     },
-    Michigan: {
+    'Michigan': {
       capital: "Lansing"
     },
-    Minnesota: {
+    'Minnesota': {
       capital: "St. Paul"
     },
-    Mississippi: {
+    'Mississippi': {
       capital: "Jackson"
     },
-    Missouri: {
+    'Missouri': {
       capital: "Jefferson City"
     },
-    Montana: {
+    'Montana': {
       capital: "Helena"
     },
-    Nebraska: {
+    'Nebraska': {
       capital: "Lincoln"
     },
-    Nevada: {
+    'Nevada': {
       capital: "Carson City"
     },
-    New Hampshire: {
+    'New Hampshire': {
       capital: "Concord"
     },
-    New Jersey: {
+    'New Jersey': {
       capital: "Trenton"
     },
-    New Mexico: {
+   'New Mexico': {
       capital: "Santa Fe"
     },
-    New York: {
+    'New York': {
       capital: "Albany"
     },
-    North Carolina: {
+   'North Carolina': {
       capital: "Raleigh"
     },
-    North Dakota: {
+    'North Dakota': {
       capital: "Bismarck"
     },
-    Ohio: {
+    'Ohio': {
       capital: "Columbus"
     },
-    Oklahoma: {
+    'Oklahoma': {
       capital: "Oklahoma City"
     },
-    Oregon: {
+    'Oregon': {
       capital: "Salem"
     },
-    Pennsylvania: {
+    'Pennsylvania': {
       capital: "Harrisburg"
     },
-    Rhode Island: {
+    'Rhode Island': {
       capital: "Providence"
     },
-    South Carolina: {
+    'South Carolina': {
       capital: "Columbia"
     },
-    South Dakota: {
+    'South Dakota': {
       capital: "Pierre"
     },
-    Tennessee: {
+    'Tennessee': {
       capital: "Nashville"
     },
-    Texas: {
+    'Texas': {
       capital: "Austin"
     },
-    Utah: {
+    'Utah': {
       capital: "Salt Lake City"
     },
-    Vermont: {
+    'Vermont': {
       capital: "Montpelier"
     },
-    Virginia: {
+    'Virginia': {
       capital: "Richmond"
     },
-    Washington: {
+    'Washington': {
       capital: "Olympia"
     },
-    West Virginia: {
+    'West Virginia': {
       capital: "Charleston"
     },
-    Wisconsin: {
+    'Wisconsin': {
       capital: "Madison"
     },
-    Wyoming: {
+    'Wyoming': {
       capital: "Cheyenne"
     },
   }
